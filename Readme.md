@@ -6,7 +6,7 @@ that took the longest to increase search depth.
 Example usage:
 
 ```
-./explosionsieve -r --matchTC "60\+0.6" --branchingFactor 1.5 --ratioBound 5
+> ./explosionsieve -r --matchTC "60\+0.6" --branchingFactor 1.5 --ratioBound 5
 Looking for search explosions with depth^1.5/second below 5 ...
 Looking (recursively) for pgn files in ./pgns
 Found 865 .pgn(.gz) files in total.
